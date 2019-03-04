@@ -16,7 +16,3 @@ function sayHiToGrandma(string) {
   console.log("hello")
   return ("I can't hear you!")
 }
-function sayHiToGrandma(string) {
-  console.log("HELLO")
-  return ("YES INDEED!")
-}
